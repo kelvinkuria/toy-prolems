@@ -10,7 +10,6 @@ Prerequisites
 Ensure you have a web browser with JavaScript support.
 Clone this repository to your local machine.
 Running the Code
-Open the HTML file in a web browser.
 Open the browser console to view the output of the functions.
 Usage
 calculateNetSalary(): Enter gross salary and related information to calculate net salary.
